@@ -6,12 +6,14 @@ public class App {
 
         club.setNombre("FC Barcelona");
         club.setPuntos(3);
+        club.setCampeon(true);
         String nombre=club.getNombre();
         int puntos=club.getPuntos();
 
         Club club1=new Club();
         club1.setNombre("AC Milan");
         club1.setPuntos(4);
+        club1.setCampeon(true);
         String nombre1=club1.getNombre();
         int puntos1=club1.getPuntos();
 
@@ -24,6 +26,14 @@ public class App {
 class Club{
     private String nombre;
     private int puntos;
+    private boolean campeon;
+
+    public void setCampeon(boolean campeon){
+        this.campeon=campeon;
+    }
+    public boolean isCampeon(){
+        return this.campeon;
+    }
 
     public void setPuntos(int puntos){
         this.puntos=puntos;
