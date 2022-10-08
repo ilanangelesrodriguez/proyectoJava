@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca680d01-b589-42eb-b251-239fb24a9e99" name="Changes" comment="" />
+    <list default="true" id="ca680d01-b589-42eb-b251-239fb24a9e99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/documentation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/documentation" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/hp/Documents/Java/IntelliJIDEAProjects/proyectoJava/Ejercicios"
+    "last_opened_file_path": "C:/Users/hp/Documents/Java/IntelliJIDEAProjects/proyectoJava"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
