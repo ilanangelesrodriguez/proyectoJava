@@ -1,4 +1,4 @@
-package Init;
+package ejerciciosUNS;
 // import java.util.Scanner;
 import javax.swing.JOptionPane;
 public class firstCode {
