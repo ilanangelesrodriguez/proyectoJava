@@ -12,7 +12,7 @@ public class ejercicio {
         if(m>0){
             h=h+1;
         }
-        double pago=h*1.500;
+        double pago=h*1500;
         System.out.println("El pago es: S/."+pago);
         sc.close();
     }
