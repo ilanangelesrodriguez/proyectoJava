@@ -7,10 +7,13 @@ public class tercerEjercicio {
         System.out.print("Introduce el numero de elementos: ");
         int n= sc.nextInt();
         int suma=0;
+        int p=0;
         for (int i=0;i<n;i++){
-            System.out.print("Elemento "+(i+1)+": ");
-            int e= sc.nextInt();
-            suma=suma+e;
+            p=(i+1)*2;
+            System.out.println("Elemento "+(i+1)+": "+p);
+            //System.out.print("Elemento "+(i+1)+": ");
+            //int e= sc.nextInt();
+            suma=suma+p;
         }
         System.out.println("La suma de los números es "+suma);
     }
