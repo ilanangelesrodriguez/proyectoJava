@@ -1,3 +1,5 @@
+package WhileDoWhile;
+
 public class buclesWhileYDoWhile {
     public static void main(String[] args) {
         int contador=10;
