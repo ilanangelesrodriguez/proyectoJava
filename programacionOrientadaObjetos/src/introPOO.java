@@ -12,7 +12,7 @@ public class introPOO {
         System.out.println(club);
     }
 }
-/*Metodos: Funciones dentro de una clase. */
+/*Metodos: Funciones dentro de una clase.*/
 class equipo{
     String club="FCBarcelona";
     class estadio{
