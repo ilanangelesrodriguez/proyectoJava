@@ -1,4 +1,4 @@
-package ejerciciosUNS.lab.src.uns.Semana05;
+package uns.Semana05;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class ejercicio1 {
     Elaborar un algoritmo que ofrezca un menú que permita escoger la impresión de las tablas de
     multiplicar, dividir, sumar y restar, y dentro de cada opción que permita escoger las del 1, 2, 3, 4, 5,
     6, 7, 8, 9 y 10
-    * */
+    */
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         ejercicio1 metodo=new ejercicio1();

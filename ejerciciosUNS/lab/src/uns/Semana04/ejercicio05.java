@@ -1,10 +1,10 @@
-package ejerciciosUNS.lab.src.uns.Semana04;
+package uns.Semana04;
 import javax.swing.JOptionPane;
 public class ejercicio05 {
     public static void main(String[] args) {
         int f,c;
         double suma;
-        double promedio;
+        //double promedio;
         double nota[][]=new double[5][10];
         String leer;
         for (f=0;f< 5;f++){

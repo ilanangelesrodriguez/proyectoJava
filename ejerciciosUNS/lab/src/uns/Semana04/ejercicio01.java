@@ -1,4 +1,4 @@
-package ejerciciosUNS.lab.src.uns.Semana04;
+package uns.Semana04;
 
 public class ejercicio01 {
     public static void main(String[] args) {
