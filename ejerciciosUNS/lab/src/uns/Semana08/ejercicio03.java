@@ -6,12 +6,23 @@ public class ejercicio03 {
         //de subir, bajar, parar entre niveles (pisos), alarma, sobrecarga y en cada
         //nivel (piso) botones de llamada para subir o bajar.
         System.out.println("|------ Ejercicio 03 ------|");
+        Ascensor ascensor=new Ascensor();
+        ascensor.subir();
+        ascensor.bajar();
+        ascensor.alarma();
+        ascensor.sobecarga();
+        
+        Piso piso=new Piso();
+        piso.botonLlamada();
     }
 }
-class piso{
+class Piso extends Ascensor{
     int piso;
     public void botonLlamada(){
-        sout
+        //System.out.println("Subir");
+        Piso piso=new Piso();
+        piso.subir();
+        piso.bajar();
     }
 }
 class Ascensor{
